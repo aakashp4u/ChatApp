@@ -1,0 +1,275 @@
+{
+  "project_info": {
+    "project_number": "102864561082",
+    "firebase_url": "https://simple-form1.firebaseio.com",
+    "project_id": "simple-form1",
+    "storage_bucket": "simple-form1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102864561082:android:b4d91cd064b5d10cd6f383",
+        "android_client_info": {
+          "package_name": "com.akash.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102864561082-4dpbtfsp1d9jqb2lm63j3u1e7bvhfcfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1vqMUkwg_tx5UtqadWiy-nAOgtD7zqmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102864561082-4dpbtfsp1d9jqb2lm63j3u1e7bvhfcfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102864561082:android:76178dd28d2fdd4ad6f383",
+        "android_client_info": {
+          "package_name": "com.ashish.mymall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102864561082-dr8vbijn8gv1ehp1c460rktu7o7d35n3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ashish.mymall",
+            "certificate_hash": "e1fab05a2b2d0dc0ff95b1d2060f4c9351684a30"
+          }
+        },
+        {
+          "client_id": "102864561082-4dpbtfsp1d9jqb2lm63j3u1e7bvhfcfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1vqMUkwg_tx5UtqadWiy-nAOgtD7zqmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102864561082-4dpbtfsp1d9jqb2lm63j3u1e7bvhfcfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102864561082:android:22f9fddb649d850dd6f383",
+        "android_client_info": {
+          "package_name": "com.example.jproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102864561082-4dpbtfsp1d9jqb2lm63j3u1e7bvhfcfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1vqMUkwg_tx5UtqadWiy-nAOgtD7zqmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102864561082-4dpbtfsp1d9jqb2lm63j3u1e7bvhfcfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102864561082:android:fc8849d55c14d21ed6f383",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102864561082-3tspvq5r8r42fq67nr7rmq20thlkpa3b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "40022fd566e07d75d114373a5a6e6b7105a5d42f"
+          }
+        },
+        {
+          "client_id": "102864561082-4dpbtfsp1d9jqb2lm63j3u1e7bvhfcfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1vqMUkwg_tx5UtqadWiy-nAOgtD7zqmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102864561082-4dpbtfsp1d9jqb2lm63j3u1e7bvhfcfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102864561082:android:48fdb4ee1c7384f7d6f383",
+        "android_client_info": {
+          "package_name": "com.example.simpleform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102864561082-dhmvhqvbfcdvlad4hvgv0tqsduifr8l4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.simpleform",
+            "certificate_hash": "40022fd566e07d75d114373a5a6e6b7105a5d42f"
+          }
+        },
+        {
+          "client_id": "102864561082-4dpbtfsp1d9jqb2lm63j3u1e7bvhfcfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1vqMUkwg_tx5UtqadWiy-nAOgtD7zqmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102864561082-4dpbtfsp1d9jqb2lm63j3u1e7bvhfcfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102864561082:android:eb7aa322e38a65a8d6f383",
+        "android_client_info": {
+          "package_name": "com.koddev.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102864561082-4dpbtfsp1d9jqb2lm63j3u1e7bvhfcfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1vqMUkwg_tx5UtqadWiy-nAOgtD7zqmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102864561082-4dpbtfsp1d9jqb2lm63j3u1e7bvhfcfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102864561082:android:32f6428d175c5837d6f383",
+        "android_client_info": {
+          "package_name": "com.sayali.eventzillaadminside"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102864561082-9btdtrpdqlf2mnrrfda62d8ead22l1c4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sayali.eventzillaadminside",
+            "certificate_hash": "e1fab05a2b2d0dc0ff95b1d2060f4c9351684a30"
+          }
+        },
+        {
+          "client_id": "102864561082-4dpbtfsp1d9jqb2lm63j3u1e7bvhfcfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1vqMUkwg_tx5UtqadWiy-nAOgtD7zqmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102864561082-4dpbtfsp1d9jqb2lm63j3u1e7bvhfcfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102864561082:android:be9758e469af6310d6f383",
+        "android_client_info": {
+          "package_name": "com.service.parking.theparker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102864561082-4dpbtfsp1d9jqb2lm63j3u1e7bvhfcfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1vqMUkwg_tx5UtqadWiy-nAOgtD7zqmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102864561082-4dpbtfsp1d9jqb2lm63j3u1e7bvhfcfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "846740575339",
+    "firebase_url": "https://theparker-42dcf.firebaseio.com",
+    "project_id": "theparker-42dcf",
+    "storage_bucket": "theparker-42dcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846740575339:android:f981820ab333d6a1488d2e",
+        "android_client_info": {
+          "package_name": "com.akash.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846740575339-45kc8rrjedeo749ggvfd3rkue2e41kck.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akash.chatapp",
+            "certificate_hash": "e1fab05a2b2d0dc0ff95b1d2060f4c9351684a30"
+          }
+        },
+        {
+          "client_id": "846740575339-f95ehm15s4od5tefrdl82nij6ild45hv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHCPQWzvfr79vXLZ8_3DNrKVq8enk0s8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846740575339-f95ehm15s4od5tefrdl82nij6ild45hv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846740575339:android:d9cdd9cba85ae8cf488d2e",
+        "android_client_info": {
+          "package_name": "com.service.parking.theparker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846740575339-ajntrouii5vadto60t6c9or28gakjok8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.service.parking.theparker",
+            "certificate_hash": "e1fab05a2b2d0dc0ff95b1d2060f4c9351684a30"
+          }
+        },
+        {
+          "client_id": "846740575339-f95ehm15s4od5tefrdl82nij6ild45hv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHCPQWzvfr79vXLZ8_3DNrKVq8enk0s8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846740575339-f95ehm15s4od5tefrdl82nij6ild45hv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
